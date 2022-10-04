@@ -1,8 +1,7 @@
-#this config page gives us our current theme. We can edit css here.
-
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
 title: UBC Sports Data Science
 description: UBC student ran data science club
+
+# Set the theme to minima
+remote_theme: jekyll/minima
+
+# Optional: Add any other custom settings or configuration you may want
